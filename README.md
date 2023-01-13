@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clcl777)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clcl777&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=clcl777&theme=default)
