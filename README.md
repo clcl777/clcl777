@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clcl777&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=clcl777&theme=default)
 
-![](https://spotify-recently-played-readme.vercel.app/api?user=t46r66o4xxx5ea7lvl1ucckeo&count=10)
