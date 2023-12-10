@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Im interested in competitive programming and web development.
+
 <!--
 **clcl777/clcl777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
