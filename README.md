@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clcl777&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=clcl777&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clcl777&theme=solarized)
+![](./profile-summary-card-output/solarized/1-repos-per-language.svg)
+![](./profile-summary-card-output/solarized/2-most-commit-language.svg)
+![](./profile-summary-card-output/solarized/0-profile-details.svg)
 ![github-readme-stats](https://github-readme-stats-dusky-seven-57.vercel.app/api/?username=clcl777&count_private=true)
 ![AtCoder Rating](https://atcoder-disp-graph.tra.earth/disp-rate/tra_?contest-type=algo&graph-type=status)
