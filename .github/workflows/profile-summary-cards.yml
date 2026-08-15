@@ -25,3 +25,19 @@ jobs:
           UTC_OFFSET: 9
           THEME: solarized
           AUTO_PUSH: true
+
+      - name: Update OSS star counts
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        run: python3 .github/scripts/update_oss_stars.py
+
+      - name: Push star count updates
+        run: |
+          if git diff --quiet -- README.md; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update OSS star counts"
+          git push
