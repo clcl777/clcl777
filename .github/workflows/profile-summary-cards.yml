@@ -2,8 +2,8 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    # Every day at 00:00 UTC (09:00 JST).
-    - cron: "0 0 * * *"
+    # On the 1st of every month at 00:00 UTC (09:00 JST).
+    - cron: "0 0 1 * *"
   workflow_dispatch:
 
 jobs:
